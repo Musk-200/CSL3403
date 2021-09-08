@@ -1,7 +1,7 @@
 ![muskan](https://user-images.githubusercontent.com/90148230/132526032-690a52bb-3eb9-4e07-91ff-9ebc78d379c0.jpg)
 
 # CSL3403
-<html>
+<html lang="en">
 <head>
       <title>
              Hello World!
@@ -9,11 +9,9 @@
 </head>
 <body>
 <div style ="background-color:black;color:white;>      
-<img src = "https://user-images.githubusercontent.com/90148230/132526032-690a52bb-3eb9-4e07-91ff-9ebc78d379c0.jpg" alt ="hii Muskan" width="100" height="100">
-
- alt="hii Muskan" width="200" height="200">
-<h1 style ="color:red; text-alig:center;front-size:50px"><u> Hello Everyone !</u> </h1>
-<p style ="color:red;text-align:font-size:30px">
+<img src = "![muskan](https://user-images.githubusercontent.com/90148230/132526032-690a52bb-3eb9-4e07-91ff-9ebc78d379c0.jpg)" alt ="hii Muskan" width="100" height="100">
+<h1 style ="color;darkgreen; font-style="italic"><u> Hello Everyone !</u> </h1>
+<p style ="color:red;text-align:left;font-size:30px">
     <ul>
 <li>My Name is Muskan Kumari.
 <li> My Branch is Computer Science.
